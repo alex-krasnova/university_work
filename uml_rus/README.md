@@ -1,12 +1,13 @@
 ## This is the work of creating a model in UML (Unified Modeling Language).
-### The work was done in Russian.
 
-Необходимо построить объектно-ориентированную модель заданной предметной области, используя язык UML (Unified Modeling Language – унифицированный язык моделирования).<br>
-Набор моделей, используемых в объектно-ориентированном подходе, включает: <br>
-•	диаграммы вариантов использования (Use Case Diagram); 
-•	диаграммы взаимодействия (Interaction Diagram), к которым относятся диаграммы последовательности (Sequence diagram) и диаграммы взаимодействий (Collaboration diagram);
-•	диаграммы классов (Class Diagram); 
-•	диаграммы состояний (State Machine Diagram); 
-•	диаграммы действий (Activity Diagram); 
-•	диаграммы компонентов (Component Diagram); 
-диаграммы размещения (Deployment Diagram).
+It is necessary to build an object-oriented model of a given subject area using the UML language (Unified Modeling Language).<br>
+The set of models used in the object-oriented approach includes:<br>
+•	Use Case Diagram;<br>
+•	Interaction Diagram, which include Sequence diagram and Collaboration diagram;<br>
+•	Class Diagram;<br>
+•	State Machine Diagram;<br>
+•	Activity Diagram;<br>
+•	Component Diagram;<br>
+•	Deployment Diagram.<br>
+
+The work was done in Russian.
