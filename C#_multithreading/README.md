@@ -10,5 +10,8 @@ Locker.cs – lock object class<br>
 Logger.cs – class for writing information to a log file<br>
 
 ### Screenshots:
-initial_form.png<br>
-result.png<br>
+initial_form.png - initial form of the application<br>
+![Initial form](https://github.com/alex-krasnova/university_work/blob/main/C%23_multithreading/initial_form.png)
+
+result.png - result form of the application<br>
+![Result form](https://github.com/alex-krasnova/university_work/blob/main/C%23_multithreading/result_form.png)
