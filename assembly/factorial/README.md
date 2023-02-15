@@ -20,3 +20,4 @@ Version 4 is a C++ console application containing an assembly language inline.<b
 3_asm_macros/MacrosL3.inc - macro code for version 3<br>
 4_cpp_asm/Factorial.cpp - C++ code with assembly language inline<br>
 result.png - example of result for versions 1, 2, 3<br>
+![Factorial](https://github.com/alex-krasnova/university_work/blob/main/assembly/factorial/result.png)
