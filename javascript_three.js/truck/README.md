@@ -4,4 +4,6 @@ Create and render the scene using JavaScript library three.min.js. The scene sho
 
 ## Files Created
 
-truck.html - the page containing the scene
+truck.html - the page containing the scene<br>
+result.png - screenshot from the html page with truck model.
+![Truck](https://github.com/alex-krasnova/university_work/blob/main/javascript_three.js/truck/result.png)
