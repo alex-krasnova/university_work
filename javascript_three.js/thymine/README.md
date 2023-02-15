@@ -1,6 +1,6 @@
 ## Task Decription
 
-Create and render the scene Using JavaScript library three.min.js. The scene should contain a rotating model of the thymine molecule.
+Create and render the scene using JavaScript library three.min.js. The scene should contain a rotating model of the thymine molecule.
 
 ### Files Created
 
