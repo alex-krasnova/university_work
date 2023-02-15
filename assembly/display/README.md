@@ -10,3 +10,4 @@ The program was created in Turbo C++ for Windows 7, 8, 8.1 and Windows 10 (32-64
 
 display.cpp - C++ program code with an insert in assembly language<br>
 result.png - painted lines after several mouse clicks<br>
+![Display](https://github.com/alex-krasnova/university_work/blob/main/assembly/display/result.png)
